@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c6ef270-dd01-4099-ae62-4741f911bd12" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Ulz37Rm8egCOi3LoWm4WCSSoeN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../webRTC3" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SkyRTC-demo-master/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c6ef270-dd01-4099-ae62-4741f911bd12" name="Default Changelist" comment="" />
+      <created>1544498843585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544498843585</updated>
+      <workItem from="1544498846831" duration="7628000" />
+      <workItem from="1544522680110" duration="11924000" />
+      <workItem from="1544592160042" duration="2606000" />
+      <workItem from="1544614447366" duration="784000" />
+      <workItem from="1544862647931" duration="812000" />
+      <workItem from="1544880549757" duration="2334000" />
+      <workItem from="1545037423633" duration="15000" />
+      <workItem from="1545037485370" duration="686000" />
+      <workItem from="1575945768913" duration="643000" />
+      <workItem from="1575946424974" duration="173000" />
+      <workItem from="1575946827385" duration="862000" />
+      <workItem from="1575962267625" duration="1199000" />
+      <workItem from="1575972032208" duration="274000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="388" y="116" key="FileChooserDialogImpl" timestamp="1575972304711">
+      <screen x="0" y="0" width="1213" height="720" />
+    </state>
+    <state x="388" y="116" key="FileChooserDialogImpl/0.0.1213.720@0.0.1213.720" timestamp="1575972304711" />
+    <state x="389" y="116" key="FileChooserDialogImpl/0.0.1215.720@0.0.1215.720" timestamp="1575947172406" />
+  </component>
+</project>
