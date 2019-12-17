@@ -1,0 +1,9 @@
+实验只是基于内网环境，公网的话，需要turn，ice一堆的穿透，或者配置https，ws等安全协议，基于http协议不能webrtc实时通信
+注意事项（踩过的坑）：
+1、虚拟机不用装nodejs，不管是ubuntu还是windows，一个都没成功，打不开摄像头，直接在电脑装nodejs
+2、can't create stream：请确认摄像头坏了没，电脑相机打不开请检查驱动就ok
+3、firefox电脑没打开过摄像头，支持google,edge，本人实验是google浏览器
+4、手机端装firefox才能成功，本人honor内置浏览器打不开
+5、要是node server.js显示一堆error啥的，无脑npm install,再node server.js就ok
+6、手机要和电脑同内网，最好是手机连电脑wifi
+
